@@ -1,0 +1,20 @@
+{
+  "profiles": {
+    "add": {
+      "commandName": "Project",
+      "commandLineArgs": "add D:\\temp\\aging *"
+    },
+    "list": {
+      "commandName": "Project",
+      "commandLineArgs": "list D:\\temp\\aging\\Sub"
+    },
+    "remove": {
+      "commandName": "Project",
+      "commandLineArgs": "remove D:\\temp\\aging\\Sub 5"
+    },
+    "clear": {
+      "commandName": "Project",
+      "commandLineArgs": "clear D:\\temp\\aging\\Sub Log,Archive"
+    }
+  }
+}
